@@ -1,4 +1,14 @@
-# CS2 Instadefuse
+# CS2 Instadefuse (fshost build)
+
+> This is fshost's maintained copy of **[B3none/cs2-instadefuse](https://github.com/B3none/cs2-instadefuse)**
+> by **B3none**, with the initial CS2 port by **LordFetznschaedl**. All credit for the plugin goes to the
+> original authors. It is distributed under the original GPL-3.0 license (see [LICENSE](LICENSE)).
+>
+> Differences from upstream: built against the CounterStrikeSharp API fshost runs (mrc4tt/CounterStrikeSharp)
+> on .NET 10. Download **InstadefusePlugin.zip** from the
+> [releases](https://github.com/mrc4tt/cs2-instadefuse/releases/latest) and extract it into `game/csgo/`.
+> See [CHANGELOG.md](CHANGELOG.md).
+
 The CS2 port of my CS:GO Instadefuse plugin written in C# for CounterStrikeSharp
 
 ## Share the love

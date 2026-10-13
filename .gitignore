@@ -10,3 +10,7 @@
 
 # Ignore bin directories in the root of each project
 **/bin/
+# Local
+.claude/
+.css/
+dist/
