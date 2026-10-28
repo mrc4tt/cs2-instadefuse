@@ -1,0 +1,7 @@
+{
+  "instadefuse.prefix": "[[GREEN]Retakes[NORMAL]] ",
+  
+  "instadefuse.unsuccessful": "{0} manglede [DARK_RED]{1} sekunder[WHITE] for at defuse.",
+  "instadefuse.successful": "{0} defusede med [GREEN]{1} sekunder[WHITE] tilbage på bomben.",
+  "instadefuse.not_possible": "Instant defuse er ikke muligt, der er en granattrussel!"
+}

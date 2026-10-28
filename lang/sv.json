@@ -1,0 +1,7 @@
+{
+  "instadefuse.prefix": "[[GREEN]Retakes[NORMAL]] ",
+  
+  "instadefuse.unsuccessful": "{0} var [DARK_RED]{1} sekunder[WHITE] från att desarmera.",
+  "instadefuse.successful": "{0} desarmerade med [GREEN]{1} sekunder[WHITE] kvar på bomben.",
+  "instadefuse.not_possible": "Omedelbar desarmering inte möjlig, det finns ett granathot!"
+}

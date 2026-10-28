@@ -1,0 +1,7 @@
+{
+  "instadefuse.prefix": "[[GREEN]Retakes[NORMAL]] ",
+  
+  "instadefuse.unsuccessful": "{0} не хватило [DARK_RED]{1} сек.[WHITE] до разминирования.",
+  "instadefuse.successful": "{0} разминировал бомбу, когда до взрыва оставалось [GREEN]{1} сек.[WHITE]",
+  "instadefuse.not_possible": "Мгновенное разминирование невозможно — есть угроза от гранаты!"
+}

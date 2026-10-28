@@ -1,0 +1,7 @@
+{
+  "instadefuse.prefix": "[[GREEN]Retakes[NORMAL]] ",
+  
+  "instadefuse.unsuccessful": "{0} était à [DARK_RED]{1} secondes[WHITE] de désamorcer.",
+  "instadefuse.successful": "{0} a désamorcé avec [GREEN]{1} secondes[WHITE] restantes sur la bombe.",
+  "instadefuse.not_possible": "Désamorçage instantané impossible, une grenade est une menace !"
+}

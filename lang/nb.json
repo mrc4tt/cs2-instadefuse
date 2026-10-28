@@ -1,0 +1,7 @@
+{
+  "instadefuse.prefix": "[[GREEN]Retakes[NORMAL]] ",
+  
+  "instadefuse.unsuccessful": "{0} var [DARK_RED]{1} sekunder[WHITE] unna å desarmere.",
+  "instadefuse.successful": "{0} desarmerte med [GREEN]{1} sekunder[WHITE] igjen på bomben.",
+  "instadefuse.not_possible": "Umiddelbar desarmering er ikke mulig, det er en granattrussel!"
+}

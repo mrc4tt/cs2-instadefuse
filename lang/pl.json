@@ -1,0 +1,7 @@
+{
+  "instadefuse.prefix": "[[GREEN]Retakes[NORMAL]] ",
+  
+  "instadefuse.unsuccessful": "{0} zabrakło [DARK_RED]{1} sek.[WHITE] do rozbrojenia bomby.",
+  "instadefuse.successful": "{0} rozbroił bombę, gdy zostało [GREEN]{1} sek.[WHITE] do wybuchu.",
+  "instadefuse.not_possible": "Natychmiastowe rozbrojenie niemożliwe - w pobliżu jest zagrożenie granatem!"
+}
